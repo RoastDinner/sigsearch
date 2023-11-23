@@ -13,7 +13,7 @@ fn main(){
     println!("searching for {}", query);
     println!("in file {}", filename);
     
-    let contents = fs::read_to_string(filename).expect("someting wong");
+    let contents = fs::read_to_string(filename).expect("someting wong");        // my code is very neat ik
 
 
     println!("Text: \n {} ", contents);
