@@ -9,8 +9,9 @@ just drop your txt files into the sigsearch folder
 * to run it type: cargo run [word you want to find] [name of text file.txt]
 * MAKE SURE RUST IS INSTALLED FFS
 
-#examples
+# examples
 * so a example use would be cargo run star test.txt
+* 
 *make sure the txt file is in list format e.g:
 * hello
 * star
