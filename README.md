@@ -12,9 +12,9 @@ make sure the txt file is in list format e.g:
 (ignore the bullet points)
 
 
-to run it type: cargo run [word you want to find] [name of text file.txt]
-so a example use would be cargo run star test.txt
-MAKE SURE RUST IS INSTALLED FFS
+* to run it type: cargo run [word you want to find] [name of text file.txt]
+* so a example use would be cargo run star test.txt
+* MAKE SURE RUST IS INSTALLED FFS
 
 # credits
 
