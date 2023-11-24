@@ -11,8 +11,6 @@ just drop your txt files into the sigsearch folder
 
 #examples
 * so a example use would be cargo run star test.txt
-*
-*
 *make sure the txt file is in list format e.g:
 * hello
 * star
